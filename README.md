@@ -1,6 +1,6 @@
 # GeolocationExperiment
 
-Use the supplied geolocations in `locations.json` to experiment with `geolib`.
+Use the supplied geolocations in `locateMe.json` to experiment with `geolib`.
 
 Take a look at the [geolib](https://github.com/manuelbieh/Geolib) module on GitHub.
 
